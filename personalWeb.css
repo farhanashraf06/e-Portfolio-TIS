@@ -1,90 +1,102 @@
-p{
-    font-family:"BBH Bogle" ;
-    margin-top: 0;
-    margin-bottom: 0;
+body {
+    background: url("picture/background-1.jpg") no-repeat center center fixed;
+    background-size: cover;
+    margin: 0;
+    padding: 0;
 }
-.name {
-        font-family:'Lucida Sans', 'Lucida Sans Regular';
-        font-size : 15px;
-        color: white;
-        font-weight: 475;
-        margin-top : 75px;
-        display: inline-block;
-        vertical-align: top;
-    }
-.profile-pic{
+
+p {
+    font-family: "BBH Bogle";
+    margin: 0;
+}
+
+.profile-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 40px;
+}
+
+.profile-pic {
     width: 115px;
-    border: solid;
-    border-color: black;
-    border-width: 2px;
-    border-radius: 250px;
-    display: inline-block;
-    box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.7);
+    border: 2px solid black;
+    border-radius: 50%;
+    box-shadow: 10px 10px 5px rgba(0,0,0,0.7);
 }
-.welcoming{
-    color : white;
+
+.name {
+    font-family: 'Lucida Sans';
+    font-size: 15px;
+    color: white;
+    margin-top: 15px;
+}
+
+.social-logo {
+    display: flex;
+    gap: 15px;
+    margin-top: 15px;
+    align-items: center;
+}
+
+.githublogo {
+    width: 50px;
+}
+
+.linkedinlogo {
+    width: 85px;
+}
+
+.introbig {
+    width: 625px;
+    margin: 60px auto 0;
+    text-align: center;
+}
+
+.welcoming {
+    color: white;
     font-family: "Roboto";
     font-weight: bold;
-    margin-top : 25px;
     font-size: 12px;
 }
+
 .intro {
     color: white;
     font-size: 70px;
-    line-height: normal;
 }
-.intro2{
-    margin-top : 5px;
+
+.intro2 {
     font-size: 30px;
     color: white;
+    margin-top: 5px;
 }
-.span1{
+
+.span1 {
     color: red;
 }
-.introbig{
+
+.aboutme {
     width: 625px;
+    margin: 50px auto;
+    text-align: center;
 }
-.aboutme{
-    width: 625px;
-}
-.about-me-text{
-    font-family: 'Gill Sans', 'Gill Sans MT';
-    color: aliceblue;
+
+.about-me-text {
+    font-family: 'Gill Sans';
     font-size: 50px;
-    font-weight: 500;
-    text-align: center;
-    margin-top : 50px;
-    border: solid;
     color: white;
-    width: 600px;
+    border: dashed 2px white;
     border-radius: 700px;
-    border-style:dashed;
+    padding: 10px;
 }
-.about-me-text2{
+
+.about-me-text2 {
     font-family: "Lucida Sans";
-    color: white;
     font-size: 25px;
-    font-weight: 400;
-    text-align: center;
-    margin-top : 20px;
     color: white;
+    margin-top: 20px;
     line-height: 35px;
 }
-.UTM{
+
+.UTM {
     color: maroon;
-}
-.linkedinlogo{
-    width: 85px;
-    display: inline-block;
-    vertical-align: top;
-}
-.githublogo{
-    width: 50px;
-    display: inline-block;
-    vertical-align: top;
-}
-.social-logo{
-    width: 500px;
-    display: inline-block;
-    vertical-align: middle;
 }
