@@ -73,3 +73,18 @@ p{
 .UTM{
     color: maroon;
 }
+.linkedinlogo{
+    width: 85px;
+    display: inline-block;
+    vertical-align: top;
+}
+.githublogo{
+    width: 50px;
+    display: inline-block;
+    vertical-align: top;
+}
+.social-logo{
+    width: 500px;
+    display: inline-block;
+    vertical-align: middle;
+}
