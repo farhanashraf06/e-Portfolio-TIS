@@ -24,7 +24,7 @@ This e-portfolio serves as a centralized platform to present:
 
 ## 🛠️ Tools & Technologies Used
 
-- **Frontend:** HTML, CSS, JavaScript  
+- **Frontend:** HTML, CSS
 - **Version Control:** Git & GitHub  
 - **Deployment:** GitHub Pages
 
