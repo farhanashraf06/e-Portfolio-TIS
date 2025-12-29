@@ -15,13 +15,6 @@ This e-portfolio serves as a centralized platform to present:
 
 ---
 
-## ⚙️ How It Was Built
-
-1. Using HTML
-2. Using CSS
-
----
-
 ## 🛠️ Tools & Technologies Used
 
 - **Frontend:** HTML, CSS <p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="45"/></p>
