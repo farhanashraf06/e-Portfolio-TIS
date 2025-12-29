@@ -25,7 +25,7 @@ This e-portfolio serves as a centralized platform to present:
 ## 🛠️ Tools & Technologies Used
 
 - **Frontend:** HTML, CSS
-- **Version Control:** Git & GitHub  
+- **Version Control:** Git & GitHub  <p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="45"/> </p>
 - **Deployment:** GitHub Pages
 
 ---
